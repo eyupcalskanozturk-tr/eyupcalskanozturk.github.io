@@ -1,4 +1,4 @@
-// Otomatik yıl
+// Yıl
 document.getElementById("year").textContent = new Date().getFullYear();
 
 // Tema geçişi
